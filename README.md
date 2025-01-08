@@ -9,7 +9,7 @@ Ce projet vise à modéliser les concepts fondamentaux des blockchains, notammen
 
 ### 1. Télécharger le projet sur votre répertoire local : 
 ```
-git clone [https://github.com/Warisse88/Simplified_Blockchain_Prototype_ESMT_2024.git]
+git clone https://github.com/Warisse88/Simplified_Blockchain_Prototype_ESMT_2024.git
 cd Simplified_Blockchain_Prototype_ESMT_2024
 ```
 ### 2. Mettre en place un environnement virtuel :
